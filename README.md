@@ -1,0 +1,1 @@
+Hi! This is a Electric Stabilizer 3D Model that I did on Autodesk Fusion 360. It's a replic of a model from Lyon Company. I shared with you in this repo a .stl file so feel free to use it. You can open it with Solidworks, ThinkerCAD and others 3D viewers.
